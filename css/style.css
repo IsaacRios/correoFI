@@ -1,0 +1,26 @@
+body{
+	background-color: #9D9F9E;
+	padding-top: 70px;
+
+}
+.bar{
+	background-color: #a62022;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5%;
+	width: 100%;
+	height: 50px;
+}
+#picbar1{
+	height: 40px;
+}
+#picbar2{
+	height: 40px;
+}
+
+ .abajo{
+	position: fixed-bottom;
+	color: #9D9F9E;
+
+ }
+
